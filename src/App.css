@@ -1,0 +1,566 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.body{
+	left: 10px;
+}
+
+
+.banner{
+	position: relative;
+	background-color: whitesmoke;
+	width: 2600px;
+	height: 538px;
+	top: 50px;
+	left: 20px;
+}
+
+.testimonal1{
+				position: relative;
+
+				background-color: white;
+				width: 380px;
+				height: 500px;
+				
+
+				
+
+
+}
+
+
+.i1{
+
+		position: absolute;
+		top: 50px;
+		left: 10px;
+
+
+}
+
+
+.h1{
+		position: absolute;
+
+		font-size: 24px;
+		top: 128px;
+		left:10px;
+
+}
+
+.p1{
+	position: absolute;
+	font-weight:bold ;
+
+	
+	top: 165px;
+	left:10px;
+	font-size: 24px;
+
+}
+
+.i2{
+
+	position: absolute;
+	top: 160px;
+	left: 300px;
+
+
+}
+
+.p2{
+
+	position: absolute;
+	top: 150px;
+	left: 345px;
+	font-size: 23px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.p3{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 7px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 10px;
+	
+
+
+	color: #37474F;
+	
+
+}
+
+/*2 testimonal*/
+
+
+
+/* .testimonal2{
+	position:absolute;
+
+	background-color: white;
+	width: 380px;
+	height: 538px;
+	left :400px;
+	bottom: 0;
+
+
+} */
+.testimonal2{
+	position: absolute;
+    left: 400px;
+	top: 0px;
+	background-color: white;
+	width: 415px;
+	height: 500px;
+}
+
+
+
+.i11{
+
+	position: absolute;
+	top: 50px;
+	left: 45px;
+
+
+}
+
+
+
+.h11{
+	position: absolute;
+
+	font-size: 24px;
+	top: 128px;
+	left:45px;
+
+}
+
+.p11{
+position: absolute;
+font-weight:bold ;
+
+
+top: 165px;
+left:45px;
+font-size: 24px;
+
+}
+
+.i21{
+
+position: absolute;
+top: 160px;
+left: 330px;
+
+
+}
+
+.p21{
+
+position: absolute;
+top: 140px;
+left: 380px;
+font-size: 24px;
+
+}
+
+.p31{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 7px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 45px;
+	
+
+
+	color: #37474F;
+	
+
+}
+/*testimonial3*/
+
+
+
+.testimonal3{
+	position:absolute;
+    top: 0px;
+	background-color: white;
+	width: 420px;
+	height: 500px;
+	left :840px;
+	bottom: 0;
+
+
+}
+
+
+
+.ii12{
+
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+
+}
+
+
+
+.hh12{
+	position: absolute;
+
+	font-size: 24px;
+	top: 128px;
+	left:50px;
+
+}
+
+.pp12{
+position: absolute;
+font-weight:bold ;
+
+
+top: 165px;
+left:50px;
+font-size: 24px;
+
+}
+
+.ii22{
+
+position: absolute;
+top: 160px;
+left: 330px;
+
+
+}
+
+.pp22{
+
+position: absolute;
+top: 140px;
+left: 382.55px;
+font-size: 24px;
+
+}
+
+.pp32{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 7px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 45px;
+	
+
+
+	color: #37474F;
+	
+
+}
+
+.testimonal4{
+	position:absolute;
+    top: 0px;
+	background-color: white;
+	width: 420px;
+	height: 500px;
+	left :1290px;
+	bottom: 0;
+
+
+}
+
+
+
+.j1{
+
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+
+}
+
+
+
+.j2{
+	position: absolute;
+
+	font-size: 24px;
+	top: 128px;
+	left:50px;
+
+}
+
+.j3{
+position: absolute;
+font-weight:bold ;
+
+
+top: 165px;
+left:50px;
+font-size: 24px;
+
+}
+
+.j4{
+
+position: absolute;
+top: 160px;
+left: 330px;
+
+
+}
+
+.j5{
+
+position: absolute;
+top: 140px;
+left: 382.55px;
+font-size: 24px;
+
+}
+
+.j6{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 7px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 45px;
+	
+
+
+	color: #37474F;
+	
+
+}
+
+
+.testimonal5{
+	position:absolute;
+    top: 0px;
+	background-color: white;
+	width: 420px;
+	height: 500px;
+	left :1740px;
+	bottom: 0;
+
+
+}
+
+
+
+.k1{
+
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+
+}
+
+
+
+.k2{
+	position: absolute;
+
+	font-size: 24px;
+	top: 128px;
+	left:50px;
+
+}
+
+.k3{
+position: absolute;
+font-weight:bold ;
+
+
+top: 165px;
+left:50px;
+font-size: 24px;
+
+}
+
+.k4{
+
+position: absolute;
+top: 160px;
+left: 330px;
+
+
+}
+
+.k5{
+
+position: absolute;
+top: 140px;
+left: 382.55px;
+font-size: 24px;
+
+}
+
+.k6{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 7px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 45px;
+	
+
+
+	color: #37474F;
+	
+
+}
+
+
+.testimonal6{
+	position:absolute;
+    top: 0px;
+	background-color: white;
+	width: 380px;
+	height: 530px;
+	left :2190px;
+	bottom: 0;
+
+
+}
+
+
+
+.l1{
+
+	position: absolute;
+	top: 50px;
+	left: 50px;
+
+
+}
+
+
+
+.l2{
+	position: absolute;
+
+	font-size: 24px;
+	top: 128px;
+	left:50px;
+
+}
+
+.l3{
+position: absolute;
+font-weight:bold ;
+
+
+top: 165px;
+left:50px;
+font-size: 24px;
+
+}
+
+.l4{
+
+position: absolute;
+top: 160px;
+left: 290px;
+
+
+}
+
+.l5{
+
+position: absolute;
+top: 140px;
+left: 340px;
+font-size: 24px;
+
+}
+
+.l6{
+		
+	position: absolute;
+	font-size: 18px;
+    text-align: justify;
+	word-spacing: 5px;
+    
+	width: 500px;
+	height: 308px;
+	top: 220px;
+	left: 45px;
+	
+
+
+	color: #37474F;
+	
+
+}
+
+
+
+
